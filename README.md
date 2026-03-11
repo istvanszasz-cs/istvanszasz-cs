@@ -1,7 +1,22 @@
 ## Hi there 👋
-
-<h2> 🚀 &nbsp;Languages and Technologies</h2>
-<p align="left">
+<h3 align="center">I'm István, a second-year CS student at Babeș-Bolyai University. 🎓</h3> 
+<br>
+  <ul >
+    <li>
+  🧠 My <b>core belief</b> is that programmers are the foundation of our software-dependent world. This drives my mission to become a developer who creates tangible positive impact. 
+    </li>
+    <br>
+   <li> 
+💼  By choosing me, your team gains a dedicated, fast-learning student who is not only <b>passionate</b> about programming but also committed to <b>contributing</b> to your projects from day one. 
+    </li>  
+    <br>
+    <li>
+🚀 I am ready to take on challenges and grow alongside your engineers to help deliver <b>real value</b> to your clients.
+    </li>
+  </ul>
+  <br>
+<h2 align="center"> 🛠️ &nbsp;Languages and Technologies</h2>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
